@@ -1,0 +1,29 @@
+{
+    "peliculas" : [
+        {
+          "id": 1,
+          "titulo": "La Gran Estafa",
+          "genero": "Comedia",
+          "duracion": "125 minutos",
+          "director": "Matt Damon",
+          "sinopsis":
+            "Un grupo de estafadores planea robar un casino en Las Vegas durante un combate de boxeo importante.",
+          "calificacion": 4.5,
+          "actores": ["George Clooney", "Brad Pitt", "Matt Damon", "Julia Roberts"],
+          "portada":
+            "https://www.lahiguera.net/cinemania/pelicula/6395/la_gran_estafa_americana-cartel-5306.jpg"
+        },
+        {
+          "id": 2,
+          "titulo": "Noche en el Museo",
+          "genero": "Comedia",
+          "duracion": "108 minutos",
+          "director":"",
+          "sinopsis":
+            "Un guardia de seguridad nocturno descubre que las exhibiciones de un museo cobran vida durante la noche.",
+            "calificacion": 3,
+          "actores": ["Ben Stiller", "Robin Williams", "Owen Wilson", "Dick Van Dyke"],
+          "portada": "https://es.web.img3.acsta.net/pictures/15/11/12/10/28/248825.jpg"
+        }
+      ]  
+}
